@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "A basic node app to read twitterspotify and omdb",
+  "main": "index.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtherSuccesses/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "node"
+  ],
+  "author": "Vytas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtherSuccesses/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/OtherSuccesses/liri-node-app#readme"
+}
